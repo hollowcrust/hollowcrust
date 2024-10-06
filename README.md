@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hollowcrust)](https://github.com/hollowcrust/github-profile-trophy)
 <!--
 **hollowcrust/hollowcrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
